@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
 <h3 align="center">A passionate Data Scientist integrating machine learning and business intelligence.</h3>
 
-- 🌱 I’m currently learning **Qlik**
-
 - 💬 Ask me about **CNNs**
 
 - 📫 How to reach me **erin@turnerfamily.co.za**
