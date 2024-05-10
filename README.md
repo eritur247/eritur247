@@ -14,14 +14,14 @@
 
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="matlab" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=matlab&logoColor=black" />
-  <img alt="pandas" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="postman" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="pytorch" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=scikit_learn&logoColor=white" />
-  <img alt="seaborn" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=seaborn&logoColor=white" />
-  <img alt="tensorflow" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-f7df1c?style=flat-square&logo=matlab&logoColor=black" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-7953b3?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-007ACC?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-45b8d8?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-DD0031?style=flat-square&logo=scikit_learn&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-be3d19?style=flat-square&logo=seaborn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-30a8ff?style=flat-square&logo=tensorflow&logoColor=white" />
 
 
 <h3 align="left">Languages and Tools:</h3>
