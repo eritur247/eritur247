@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently building **data layers for AI plugins and integrations**  
+- 🌱 Currently building **data layers for AI plugins, internal applications and integrations**  
 - 🔭 Focused on **fast, scalable full-stack apps** (Next.js + Node/Express + FastAPI pipelines)  
 - 📊 Strong background in **AI/ML, async pipelines, and business intelligence systems**  
 - 📫 Reach me at **erin@turnerfamily.co.za**
@@ -47,8 +47,3 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eritur247&show_icons=true&locale=en&layout=compact" alt="eritur247" />
-</p>
