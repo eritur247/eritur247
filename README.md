@@ -18,6 +18,8 @@
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-DD0031?style=flat-square&logo=scikit_learn&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-be3d19?style=flat-square&logo=seaborn&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-30a8ff?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/NextJS?style=flat-square&logo=nextjs&logoColor=white" />
 
 
 <h3 align="left">Languages and Tools:</h3>
