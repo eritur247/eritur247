@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
-<h3 align="center">A passionate Data Scientist integrating machine learning and business intelligence.</h3>
-
-- 💬 Ask me about **CNNs**
+<h3 align="center">A passionate software dev/AI dev and product lead integrating multi-channel solutions and business intelligence.</h3>
 
 - 📫 How to reach me **erin@turnerfamily.co.za**
 
