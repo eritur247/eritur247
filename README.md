@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
-<h3 align="center">A passionate software & AI developer, and product lead integrating multi-channel solutions with business intelligence.</h3>
+<h3 align="center">A passionate software, AI developer, and product lead integrating multi-channel solutions with business intelligence.</h3>
 
 ---
 
